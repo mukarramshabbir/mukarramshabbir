@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mukarramshabbir
 - 👀 I’m interested in Computer programming and designing algorithms
-- 🌱 I’m currently learning c++,HTML,CSS
+- 🌱 I’m currently learning C#(OOP),C++,HTML,CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me amukarram152@gmail.com
 
